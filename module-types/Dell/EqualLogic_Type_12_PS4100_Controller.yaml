@@ -1,0 +1,23 @@
+---
+manufacturer: Dell
+model: EqualLogic Type 12 PS4100 Controller
+part_number: NMJ7P
+comments: |
+  ## Interchangeable Part Numbers
+
+  - NMJ7P
+
+  ## Compatible Servers
+
+  - EqualLogic PS4100
+console-ports:
+  - name: ({module}) Serial
+    type: de-9
+interfaces:
+  - name: ({module}) Ethernet 0
+    type: 1000base-t
+  - name: ({module}) Ethernet 1
+    type: 1000base-t
+  - name: ({module}) Management
+    type: 100base-tx
+    mgmt_only: True

@@ -1,0 +1,22 @@
+---
+manufacturer: Dell
+model: PowerEdge 11G 502W PSU
+part_number: 8V22F
+comments: |
+  ## Interchangeable Part Numbers
+
+  - 8V22F
+  - C472K
+  - DXWMN
+  - XTGFW
+  - MU791
+  - J38MN
+  - KY091
+
+  ## Compatible Servers
+
+  - R610
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 502

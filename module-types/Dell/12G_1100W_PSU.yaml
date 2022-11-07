@@ -1,0 +1,36 @@
+---
+manufacturer: Dell
+model: PowerEdge 12G 1100W PSU
+part_number: CC6WF
+comments: |
+  ## Interchangeable Part Numbers
+
+  - CC6WF
+  - 7NF52
+  - GDPF3
+  - GYH9V
+  - HT6GX
+  - W933G
+  - NTCWP
+  - 38GYJ
+  - XCVWK
+  - YT39Y
+  - L1100E-S0
+  - E1100-S0
+  - 331-5926
+
+  ## Compatible Servers
+
+  - R520
+  - R620
+  - R720
+  - R720xd
+  - R820
+  - R920
+  - T320
+  - T420
+  - T620
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 1100

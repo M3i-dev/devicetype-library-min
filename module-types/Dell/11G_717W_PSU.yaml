@@ -1,0 +1,22 @@
+---
+manufacturer: Dell
+model: PowerEdge 11G 717W PSU
+part_number: MP126
+comments: |
+  ## Interchangeable Part Numbers
+
+  - MP126
+  - FJVYV
+  - RCXD0
+  - RN442
+  - G290K
+  - G287K
+  - A717P-00
+
+  ## Compatible Servers
+
+  - R610
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 717

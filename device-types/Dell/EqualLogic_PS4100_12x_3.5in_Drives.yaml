@@ -1,0 +1,50 @@
+---
+manufacturer: Dell
+model: EqualLogic PS4100 12x 3.5in Drives
+slug: dell-equallogic-ps4100-12x-3-5in-drives
+u_height: 2
+is_full_depth: true
+airflow: front-to-rear
+comments: |
+  ##### System Resources
+
+  - [Dell PS4100 Owner's Manual](https://dl.dell.com/manuals/all-products/esuprt_ser_stor_net/esuprt_equallogic/equallogic-ps4100_owners-manual_en-us.pdf)
+power-ports:
+  - name: Power 1
+    type: iec-60320-c14
+    maximum_draw: 700
+    allocated_draw: 300
+  - name: Power 2
+    type: iec-60320-c14
+    maximum_draw: 700
+    allocated_draw: 300
+module-bays:
+  - name: CM 0
+    position: CM 0
+  - name: CM 1
+    position: CM 1
+inventory-items:
+  - name: 3.5in Disk 0
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 1
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 2
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 3
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 4
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 5
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 6
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 7
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 8
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 9
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 10
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 11
+    role: SATA/SAS Drive

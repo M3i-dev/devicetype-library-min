@@ -1,0 +1,35 @@
+---
+manufacturer: Dell
+model: PowerEdge 13G 14G 495W PSU
+part_number: 9338D
+comments: |
+  ## Interchangeable Part Numbers
+
+  - 9338D
+  - GRTNK
+  - 2FR04
+  - 3GHW3
+  - TH1CT
+  - E495E-S1
+  - D495E-S1
+
+  ## Compatible Servers
+
+  - R530
+  - R530xd
+  - R540
+  - R630
+  - R640
+  - R730
+  - R730xd
+  - R740
+  - R740xd
+  - T330
+  - T430
+  - T440
+  - T630
+  - T640
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 495

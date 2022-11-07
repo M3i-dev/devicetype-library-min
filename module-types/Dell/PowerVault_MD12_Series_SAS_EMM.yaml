@@ -1,0 +1,20 @@
+---
+manufacturer: Dell
+model: PowerVault MD12 Series SAS EMM
+part_number: 3DJRJ
+comments: |
+  ## Interchangeable Part Numbers
+
+  - 3DJRJ
+  - W307K
+
+  ## Compatible Servers
+
+  - EqualLogic PS4100
+  - PowerVault MD1200
+  - PowerVault MD1220
+interfaces:
+  - name: ({module}) SAS IN
+    type: other
+  - name: ({module}) SAS OUT
+    type: other

@@ -1,0 +1,42 @@
+---
+manufacturer: Dell
+model: PowerEdge NDC Intel X520 Dual Port DA-SFP+ 10Gb + I350 Dual Port 1GbE
+part_number: 67XRW
+comments: |
+  ## Interchangeable Part Numbers
+
+  - 67XRW
+  - 540-BBHJ
+
+  ## Compatible Servers
+  
+  - M710
+  - R620
+  - R630
+  - R640
+  - R710
+  - R715
+  - R720
+  - R720XD
+  - R730
+  - R730XD
+  - R740
+  - R740XD
+  - R7425
+  - R815
+  - R820
+  - R840
+  - R910
+  - R920
+  - R930
+  - R940
+  - R940xa
+interfaces:
+  - name: '{module}/1'
+    type: 10gbase-x-sfpp
+  - name: '{module}/2'
+    type: 10gbase-x-sfpp
+  - name: '{module}/3'
+    type: 1000base-t
+  - name: '{module}/4'
+    type: 1000base-t

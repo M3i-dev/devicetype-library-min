@@ -1,0 +1,63 @@
+---
+manufacturer: CyberPower
+model: OR2200LCDRT2U
+slug: cyberpower-or2200lcdrt2u
+u_height: 2
+is_full_depth: true
+comments: |
+  CyberPower Smart App LCD UPS, 2000 VA, Rackmount 2U, 120V, 8x NEMA 5-20R outlets, NEMA 5-20P inlet, RMCARD
+
+  | RBC Information |           |
+  |-----------------|-----------|
+  | RBC Replacement | RB1290X4L |
+  | RBC Quantity    | 1         |
+
+  | RMCARD Information | SKU        | Name                            |
+  |--------------------|------------|---------------------------------|
+  | Option 1           | RMCARD205  | Remote Network Management Card  |
+  | Option 2           | RCCARD100  | Cloud Monitoring Card           |
+  | Option 3           | RWCCARD100 | Wireless Cloud Monitoring Card  |
+  | Option 4           | RELAYIO500 | 5-output and 1-input Relay Card |
+console-ports:
+  - name: Serial Port I
+    type: de-9
+  - name: Serial Port II
+    type: de-9
+  - name: USB
+    type: usb-b
+interfaces:
+  - name: Network IN
+    type: 1000base-t
+  - name: Network OUT
+    type: 1000base-t
+power-ports:
+  - name: AC Input
+    type: nema-5-20p
+    maximum_draw: 1320
+power-outlets:
+  - name: Right Top 1
+    type: nema-5-20r
+    power_port: AC Input
+  - name: Right Top 2
+    type: nema-5-20r
+    power_port: AC Input
+  - name: Right Bottom 1
+    type: nema-5-20r
+    power_port: AC Input
+  - name: Right Bottom 2
+    type: nema-5-20r
+    power_port: AC Input
+  - name: Left Top 1
+    type: nema-5-20r
+    power_port: AC Input
+  - name: Left Top 2
+    type: nema-5-20r
+    power_port: AC Input
+  - name: Left Bottom 1
+    type: nema-5-20r
+    power_port: AC Input
+  - name: Left Bottom 2
+    type: nema-5-20r
+    power_port: AC Input
+module-bays:
+  - name: RMCARD

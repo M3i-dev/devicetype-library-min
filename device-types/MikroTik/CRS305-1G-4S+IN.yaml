@@ -1,0 +1,44 @@
+---
+manufacturer: MikroTik
+model: CRS305-1G-4S+IN
+slug: mikrotik-crs305-1g-4sin
+part_number: CRS305-1G-4S+IN
+u_height: 1
+is_full_depth: false
+comments: |
+  ##### Resources
+
+  - [MikroTik CRS305-1G-4S+IN](https://mikrotik.com/product/crs305_1g_4s_in#fndtn-downloads)
+  - [MikroTik CRS305-1G-4S+IN Brochure](https://i.mt.lv/cdn/product_files/CRS305-1G-4S-IN_190752.pdf)
+  - [MikroTik CRS305-1G-4S+IN Quick Guide](https://help.mikrotik.com/docs/display/QG/Quick+Guide+G1-a)
+  - [MikroTik CRS305-1G-4S+IN User Manual](https://help.mikrotik.com/docs/pages/viewpage.action?pageId=17498183)
+  - [MikroTik CRS305-1G-4S+IN Block Diagram](https://i.mt.lv/cdn/product_files/CRS305-1G-4S_220955.png)
+interfaces:
+  - name: sfp-sfpplus1
+    label: SFP+ 1
+    type: 10gbase-x-sfpp
+  - name: sfp-sfpplus2
+    label: SFP+ 2
+    type: 10gbase-x-sfpp
+  - name: sfp-sfpplus3
+    label: SFP+ 3
+    type: 10gbase-x-sfpp
+  - name: sfp-sfpplus4
+    label: SFP+ 4
+    type: 10gbase-x-sfpp
+  - name: ether1
+    label: ETH/BOOT
+    type: 1000base-t
+power-ports:
+  - name: psu1
+    label: DC1
+    type: dc-terminal
+    maximum_draw: 18
+  - name: psu2
+    label: DC2
+    type: dc-terminal
+    maximum_draw: 18
+console-ports:
+  - name: serial0
+    description: header on board
+    type: other

@@ -1,0 +1,7 @@
+---
+manufacturer: APC
+model: UPS Network Management 3 SmartSlot Card
+part_number: AP9640
+interfaces:
+  - name: Network
+    type: 1000base-t

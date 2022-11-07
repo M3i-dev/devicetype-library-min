@@ -1,0 +1,25 @@
+---
+manufacturer: Dell
+model: PowerEdge 12G 495W PSU
+part_number: VKDD2
+comments: |
+  ## Interchangeable Part Numbers
+
+  - VKDD2
+  - 3GHW3
+  - N24MJ
+  - 13MD5
+
+  ## Compatible Servers
+
+  - R520
+  - R620
+  - R720
+  - R720xd
+  - T320
+  - T420
+  - T620
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 495

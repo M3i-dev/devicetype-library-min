@@ -1,0 +1,21 @@
+---
+manufacturer: Cisco
+model: N5K-M1600
+part_number: N5K-M1600
+comments: |
+  ##### Resources
+
+  - [Cisco Nexus 5000 Series Switches Data Sheet](https://nexstor.com/wp-content/uploads/2018/05/cisco-nexus-5596t-datasheet.pdf)
+interfaces:
+  - name: Ethernet{module}/1
+    type: 10gbase-x-sfpp
+  - name: Ethernet{module}/2
+    type: 10gbase-x-sfpp
+  - name: Ethernet{module}/3
+    type: 10gbase-x-sfpp
+  - name: Ethernet{module}/4
+    type: 10gbase-x-sfpp
+  - name: Ethernet{module}/5
+    type: 10gbase-x-sfpp
+  - name: Ethernet{module}/6
+    type: 10gbase-x-sfpp

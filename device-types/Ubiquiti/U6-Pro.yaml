@@ -1,0 +1,17 @@
+---
+manufacturer: Ubiquiti
+model: UniFi Network Access Point U6 Pro
+slug: ubiquiti-unifi-network-access-point-u6-pro
+part_number: U6-Pro
+u_height: 0
+is_full_depth: false
+comments: |
+  ##### Resources
+
+  - [UniFi 6 Pro Access Point](https://store.ui.com/products/unifi-ap6-professional)
+  - [UniFi 6 Pro Access Point Datasheet](https://dl.ui.com/ds/u6-pro_ds.pdf)
+  - [UniFi 6 Pro Access Point Installation Guide](https://dl.ui.com/qig/u6-lite)
+interfaces:
+  - name: lan0
+    type: 1000base-t
+    mgmt_only: false

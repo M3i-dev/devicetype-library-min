@@ -1,0 +1,14 @@
+---
+manufacturer: APC
+model: Legacy Communications SmartSlot Card
+part_number: AP9620
+interfaces:
+  - name: Universal I/O 1
+    type: 1000base-t
+  - name: Universal I/O 2
+    type: 1000base-t
+console-ports:
+  - name: Serial
+    type: de-9
+  - name: USB
+    type: usb-b

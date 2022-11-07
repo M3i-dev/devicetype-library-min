@@ -1,0 +1,29 @@
+---
+manufacturer: Ubiquiti
+model: UniFi Network Switch Flex Mini
+slug: ubiquiti-unifi-network-switch-flex-mini
+part_number: USW-Flex-Mini
+u_height: 0
+is_full_depth: false
+comments: |
+  ##### Resources
+
+  - [UniFi USW Flex Mini](https://store.ui.com/collections/unifi-network-switching/products/usw-flex-mini)
+  - [UniFi USW Flex Mini Datasheet](https://dl.ui.com/ds/usw-flex-mini_ds.pdf)
+  - [UniFi USW Flex Mini Installation Guide](https://dl.ui.com/qig/usw-flex-mini)
+interfaces:
+  - name: Port 1
+    label: PoE IN
+    type: 1000base-t
+  - name: Port 2
+    label: "2"
+    type: 1000base-t
+  - name: Port 3
+    label: "3"
+    type: 1000base-t
+  - name: Port 4
+    label: "4"
+    type: 1000base-t
+  - name: Port 5
+    label: "5"
+    type: 1000base-t

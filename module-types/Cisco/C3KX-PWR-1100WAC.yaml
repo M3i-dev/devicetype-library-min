@@ -1,0 +1,24 @@
+---
+manufacturer: Cisco
+model: C3KX-PWR-1100WAC
+part_number: C3KX-PWR-1100WAC
+comments: |
+  ##### Resources
+
+  - [Cisco Catalyst 3750-X Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/data_sheet_c78-584733.html)
+
+  | Description                                 | Specification              |
+  |---------------------------------------------|----------------------------|
+  |                                             | C3KX-PWR-1100WAC           |
+  | Power Supply Rated Maximum                  | 1100W                      |
+  | Total Output BTU (Note: 1000 BTU/hr = 293W) | 3793 BTU/hr, 1100W         |
+  | Input-Voltage Range and Frequency           | 115-240VAC, 50-60 Hz       |
+  | Input Current                               | 12-6A                      |
+  | Output Ratings                              | -56V@19.64A                |
+  | Output Holdup Time                          | 10 ms minimum @ 102.5VAC   |
+  | Power-Supply Input Receptacles              | IEC 320-C16 (IEC60320-C16) |
+  | Power Cord Rating                           | 13A                        |
+power-ports:
+  - name: PSU{module}
+    type: iec-60320-c16
+    maximum_draw: 1100

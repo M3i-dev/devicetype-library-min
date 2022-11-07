@@ -1,0 +1,14 @@
+---
+manufacturer: Cisco
+model: N6K-C6001-FAN-F
+part_number: N6K-C6001-FAN-F
+comments: |
+  ##### Resources
+
+  - [Cisco Nexus 5600 Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/datasheet-c78-730760.pdf)
+
+  | Description  | Specification                 |
+  |--------------|-------------------------------|
+  |              | N6K-C6001-FAN-F               |
+  | Switch Model | Cisco Nexus 5672UP/5672UP-16G |
+  | Airflow      | Front-to-Back                 |

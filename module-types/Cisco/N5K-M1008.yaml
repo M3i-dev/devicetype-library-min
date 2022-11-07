@@ -1,0 +1,25 @@
+---
+manufacturer: Cisco
+model: N5K-M1008
+part_number: N5K-M1008
+comments: |
+  ##### Resources
+
+  - [Cisco Nexus 5000 Series Switches Data Sheet](https://nexstor.com/wp-content/uploads/2018/05/cisco-nexus-5596t-datasheet.pdf)
+interfaces:
+  - name: fc{module}/1
+    type: 4gfc-sfp
+  - name: fc{module}/2
+    type: 4gfc-sfp
+  - name: fc{module}/3
+    type: 4gfc-sfp
+  - name: fc{module}/4
+    type: 4gfc-sfp
+  - name: fc{module}/5
+    type: 4gfc-sfp
+  - name: fc{module}/6
+    type: 4gfc-sfp
+  - name: fc{module}/7
+    type: 4gfc-sfp
+  - name: fc{module}/8
+    type: 4gfc-sfp

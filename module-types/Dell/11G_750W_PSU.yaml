@@ -1,0 +1,31 @@
+---
+manufacturer: Dell
+model: PowerEdge 11G 750W PSU
+part_number: 4T22V
+comments: |
+  ## Interchangeable Part Numbers
+
+  - 4T22V
+  - 38X2K
+  - G24H2
+  - FN1VT
+  - F613N
+  - CNRJ9
+  - G347N
+  - 7001531-J000
+  - D750P-S0
+  - DPS-750TB-1
+
+  ## Compatible Servers
+
+  - R510
+  - R515
+  - R715
+  - R810
+  - R910
+  - T710
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 750
+

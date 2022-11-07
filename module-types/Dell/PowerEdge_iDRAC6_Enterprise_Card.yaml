@@ -1,0 +1,28 @@
+---
+manufacturer: Dell
+model: PowerEdge iDRAC6 Enterprise Card
+part_number: K869T
+comments: |
+  ## Interchangeable Part Numbers
+
+  - K869T
+  - J675T
+  - M070R
+
+  ## Compatible Servers
+  
+  - R210
+  - R210 II
+  - R310
+  - R410
+  - R415
+  - R510
+  - R515
+  - R610
+  - R710
+  - R810
+  - R910
+interfaces:
+  - name: iDRAC
+    type: 1000base-t
+    mgmt_only: True

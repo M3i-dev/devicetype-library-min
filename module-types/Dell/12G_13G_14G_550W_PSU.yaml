@@ -1,0 +1,26 @@
+---
+manufacturer: Dell
+model: PowerEdge 12G 13G 14G 550W PSU
+part_number: 6V43G
+comments: |
+  ## Interchangeable Part Numbers
+
+  - 6V43G
+  - X185V
+  - 034X1
+  - NCNFF
+  - M95X4
+  - RYMG6
+
+  ## Compatible Servers
+
+  - R320
+  - R330
+  - R420
+  - R430
+  - R440
+  - R530
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 550

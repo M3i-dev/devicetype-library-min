@@ -1,0 +1,17 @@
+---
+manufacturer: Dell
+model: PowerEdge 11G 500W PSU
+part_number: H318J
+comments: |
+  ## Interchangeable Part Numbers
+
+  - H318J
+
+  ## Compatible Servers
+
+  - R410
+  - R415
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 500

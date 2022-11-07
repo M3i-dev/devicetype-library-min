@@ -1,0 +1,17 @@
+---
+manufacturer: Ubiquiti
+model: UniFi Network Access Point AC Lite
+slug: ubiquiti-unifi-network-access-point-ac-lite
+part_number: UAP-AC-LITE
+u_height: 0
+is_full_depth: false
+comments: |
+  ##### Resources
+
+  - [UniFi AP AC Lite](https://store.ui.com/products/unifi-ac-lite)
+  - [UniFi AP AC Lite Datasheet](https://dl.ui.com/datasheets/unifi/UniFi_AC_APs_DS.pdf)
+  - [UniFi AP AC Lite Quick Start Guide](https://dl.ui.com/qsg/UAP-AC-LITE/UAP-AC-LITE_EN.html)
+interfaces:
+  - name: lan0
+    type: 1000base-t
+    mgmt_only: false

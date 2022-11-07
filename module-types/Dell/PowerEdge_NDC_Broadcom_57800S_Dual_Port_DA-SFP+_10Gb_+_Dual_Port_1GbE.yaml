@@ -1,0 +1,31 @@
+---
+manufacturer: Dell
+model: PowerEdge NDC Broadcom 57800S Dual Port DA-SFP+ 10Gb + Dual Port 1GbE
+part_number: 165T0
+comments: |
+  ## Interchangeable Part Numbers
+
+  - 165T0
+  - MT09V
+  - 540-BBFH
+
+  ## Compatible Servers
+
+  - R620
+  - R630
+  - R720
+  - R720XD
+  - R730
+  - R730XD
+  - R820
+  - R920
+  - R930
+interfaces:
+  - name: '{module}/1'
+    type: 10gbase-x-sfpp
+  - name: '{module}/2'
+    type: 10gbase-x-sfpp
+  - name: '{module}/3'
+    type: 1000base-t
+  - name: '{module}/4'
+    type: 1000base-t

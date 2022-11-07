@@ -1,0 +1,42 @@
+---
+manufacturer: Dell
+model: PowerEdge 13G 14G 750W PSU
+part_number: PJMDN
+comments: |
+  ## Interchangeable Part Numbers
+
+  - PJMDN
+  - 5RHVV
+  - 0XW8W
+  - V1YJ6
+  - G6W6K
+  - HTRH4
+  - TPJ2X
+  - KNHJV
+  - 8H33M
+  - Y9VFC
+  - 9K04T
+  - W8R3C
+
+  ## Compatible Servers
+
+  - R530
+  - R530xd
+  - R540
+  - R630
+  - R640
+  - R730
+  - R730xd
+  - R740
+  - R740xd
+  - R830
+  - R930
+  - T330
+  - T430
+  - T440
+  - T630
+  - T640
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 750

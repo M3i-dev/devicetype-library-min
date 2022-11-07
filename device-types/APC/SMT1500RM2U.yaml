@@ -1,0 +1,52 @@
+---
+manufacturer: APC
+model: SMT1500RM2U
+slug: apc-smt1500rm2u
+part_number: SMT1500RM2U
+u_height: 2
+is_full_depth: true
+comments: |
+  APC Smart-UPS, Line Interactive, 1500VA, Rackmount 2U, 120V, 6x NEMA 5-15R outlets, SmartSlot, AVR, LCD
+
+  | RBC Information |           |
+  |-----------------|-----------|
+  | RBC Replacement | APCRBC159 |
+  | RBC Quantity    | 1         |
+
+  | SmartSlot Information | SKU    | Name                                                                   |
+  |-----------------------|--------|------------------------------------------------------------------------|
+  | Option 1              | AP9613 | Dry Contact I/O SmartSlot Card                                         |
+  | Option 2              | AP9620 | Legacy Communications SmartSlot Card                                   |
+  | Option 3              | AP9640 | UPS Network Management Card 3                                          |
+  | Option 4              | AP9641 | UPS Network Management Card 3 with Environmental Monitoring            |
+  | Option 5              | AP9643 | UPS Network Management Card 3 with Environmental Monitoring and Modbus |
+console-ports:
+  - name: Serial
+    type: rj-45
+  - name: USB
+    type: usb-b
+power-ports:
+  - name: AC Input
+    type: nema-5-15p
+    maximum_draw: 1000
+power-outlets:
+  - name: Group 1 Outlet 1
+    type: nema-5-15r
+    power_port: AC Input
+  - name: Group 1 Outlet 2
+    type: nema-5-15r
+    power_port: AC Input
+  - name: Group 1 Outlet 3
+    type: nema-5-15r
+    power_port: AC Input
+  - name: Group 2 Outlet 1
+    type: nema-5-15r
+    power_port: AC Input
+  - name: Group 2 Outlet 2
+    type: nema-5-15r
+    power_port: AC Input
+  - name: Group 2 Outlet 3
+    type: nema-5-15r
+    power_port: AC Input
+module-bays:
+  - name: SmartSlot

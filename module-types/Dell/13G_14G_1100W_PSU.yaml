@@ -1,0 +1,42 @@
+---
+manufacturer: Dell
+model: PowerEdge 13G 14G 1100W PSU
+part_number: Y3H8J
+comments: |
+  ## Interchangeable Part Numbers
+
+  - Y3H8J
+  - CMPGM
+  - 9TMRF
+  - Y26KX
+  - PR21C
+  - 6D1MJ
+  - TFR9V
+  - W12Y2
+  - DPS-1100BB
+  - D1100E-S0
+  - 450-AEBC
+  - 450-AEBL
+
+  ## Compatible Servers
+
+  - R530
+  - R530xd
+  - R540
+  - R630
+  - R640
+  - R730
+  - R730xd
+  - R740
+  - R740xd
+  - R830
+  - R930
+  - T330
+  - T430
+  - T440
+  - T630
+  - T640
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 1100

@@ -1,0 +1,24 @@
+---
+manufacturer: Cisco
+model: C3KX-PWR-715WAC
+part_number: C3KX-PWR-715WAC
+comments: |
+  ##### Resources
+
+  - [Cisco Catalyst 3750-X Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-x-series-switches/data_sheet_c78-584733.html)
+
+  | Description                                 | Specification              |
+  |---------------------------------------------|----------------------------|
+  |                                             | C3KX-PWR-715WAC            |
+  | Power Supply Rated Maximum                  | 715W                       |
+  | Total Output BTU (Note: 1000 BTU/hr = 293W) | 2465 BTU/hr, 715W          |
+  | Input-Voltage Range and Frequency           | 100-240VAC, 50-60 Hz       |
+  | Input Current                               | 10-5A                      |
+  | Output Ratings                              | -56V@12.8A                 |
+  | Output Holdup Time                          | 16.7 ms minimum @ 100VAC   |
+  | Power-Supply Input Receptacles              | IEC 320-C16 (IEC60320-C16) |
+  | Power Cord Rating                           | 13A                        |
+power-ports:
+  - name: PSU{module}
+    type: iec-60320-c16
+    maximum_draw: 715

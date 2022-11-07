@@ -1,0 +1,7 @@
+---
+manufacturer: CyberPower
+model: RCCARD100
+part_number: RCCARD100
+interfaces:
+  - name: Network
+    type: 1000base-t

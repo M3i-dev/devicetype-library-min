@@ -1,0 +1,38 @@
+---
+manufacturer: Dell
+model: PowerEdge NDC Broadcom 5720 Quad Port 1GbE Base-T
+part_number: RV23K
+comments: |
+  ## Interchangeable Part Numbers
+
+  - RV23K
+  - FM487
+  - 430-4418
+  - 430-4411
+  - 540-BBHG
+
+  ## Compatible Servers
+
+  - R620
+  - R630
+  - R640
+  - R720
+  - R720xd
+  - R730
+  - R730xd
+  - R740
+  - R740xd
+  - R820
+  - R830
+  - R920
+  - R930
+  - R940
+interfaces:
+  - name: '{module}/1'
+    type: 1000base-t
+  - name: '{module}/2'
+    type: 1000base-t
+  - name: '{module}/3'
+    type: 1000base-t
+  - name: '{module}/4'
+    type: 1000base-t

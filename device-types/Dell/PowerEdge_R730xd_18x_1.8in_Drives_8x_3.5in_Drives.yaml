@@ -1,0 +1,151 @@
+---
+manufacturer: Dell
+model: PowerEdge R730xd 18x 1.8in Drives 8x 3.5in Drives
+slug: dell-poweredge-r730xd-18x-1-8in-drives-8x-3-5in-drives
+u_height: 2
+is_full_depth: true
+airflow: front-to-rear
+comments: |
+  ##### System Resources
+
+  - [Dell R730xd Owner's Manual](https://dl.dell.com/content/manual36074197-dell-poweredge-r730xd-owner-s-manual.pdf?language=en-us&ps=true)
+  - [Dell R730 R730xd Technical Guide](https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/us/Dell-PowerEdge-R730-and-R730xd-Technical-Guide-v1-7.pdf)
+console-ports:
+  - name: Serial
+    type: de-9
+  - name: Front VGA
+    type: other
+  - name: Rear VGA
+    type: other
+interfaces:
+  - name: iDRAC
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  - name: Network Daughter Card
+    position: NDC
+  - name: PCIe-Gen3 Slot 1
+    position: PCIe 1
+  - name: PCIe-Gen3 Slot 2
+    position: PCIe 2
+  - name: PCIe-Gen3 Slot 3
+    position: PCIe 3
+  - name: PCIe-Gen3 Slot 4
+    position: PCIe 4
+  - name: PCIe-Gen3 Slot 5
+    position: PCIe 5
+  - name: PCIe-Gen3 Slot 6
+    position: PCIe 6
+  - name: Power Supply 1
+    position: PSU1
+  - name: Power Supply 2
+    position: PSU2
+inventory-items:
+  - name: CPU 1
+    role: CPU
+  - name: CPU 2
+    role: CPU
+  - name: Ram A3
+    role: RAM
+  - name: Ram A7
+    role: RAM
+  - name: Ram A11
+    role: RAM
+  - name: Ram A4
+    role: RAM
+  - name: Ram A8
+    role: RAM
+  - name: Ram A12
+    role: RAM
+  - name: Ram A10
+    role: RAM
+  - name: Ram A6
+    role: RAM
+  - name: Ram A2
+    role: RAM
+  - name: Ram A9
+    role: RAM
+  - name: Ram A5
+    role: RAM
+  - name: Ram A1
+    role: RAM
+  - name: Ram B3
+    role: RAM
+  - name: Ram B7
+    role: RAM
+  - name: Ram B11
+    role: RAM
+  - name: Ram B4
+    role: RAM
+  - name: Ram B8
+    role: RAM
+  - name: Ram B12
+    role: RAM
+  - name: Ram B10
+    role: RAM
+  - name: Ram B6
+    role: RAM
+  - name: Ram B2
+    role: RAM
+  - name: Ram B9
+    role: RAM
+  - name: Ram B5
+    role: RAM
+  - name: Ram B1
+    role: RAM
+  - name: 1.8in Disk 0
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 1
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 2
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 3
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 4
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 5
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 6
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 7
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 8
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 9
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 10
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 11
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 12
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 13
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 14
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 15
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 16
+    role: SATA/SAS Drive
+  - name: 1.8in Disk 17
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 0
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 1
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 2
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 3
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 4
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 5
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 6
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 7
+    role: SATA/SAS Drive
+  - name: Rear 2.5in Disk 0
+    role: SATA/SAS Drive
+  - name: Rear 2.5in Disk 1
+    role: SATA/SAS Drive

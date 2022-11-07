@@ -1,0 +1,18 @@
+---
+manufacturer: APC
+model: UPS Network Management 3 with Environmental Monitoring SmartSlot Card
+part_number: AP9641
+interfaces:
+  - name: Universal I/O 1
+    type: 1000base-t
+  - name: Universal I/O 2
+    type: 1000base-t
+  - name: Network
+    type: 1000base-t
+console-ports:
+  - name: Console
+    type: usb-micro-b
+  - name: USB 1
+    type: usb-a
+  - name: USB 2
+    type: usb-a

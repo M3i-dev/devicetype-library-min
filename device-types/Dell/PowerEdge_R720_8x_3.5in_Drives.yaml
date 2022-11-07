@@ -1,0 +1,115 @@
+---
+manufacturer: Dell
+model: PowerEdge R720 8x 3.5in Drives
+slug: dell-poweredge-r720-8x-3-5in-drives
+u_height: 2
+is_full_depth: true
+airflow: front-to-rear
+comments: |
+  ##### System Resources
+
+  - [Dell R720 R720xd Owner's Manual](https://dl.dell.com/topicspdf/poweredge-r720_owners-manual_en-us.pdf)
+  - [Dell R720 R720xd Technical Guide](https://dl.dell.com/manuals/all-products/esuprt_ser_stor_net/esuprt_poweredge/poweredge-r720_reference-guide_en-us.pdf)
+console-ports:
+  - name: Serial
+    type: de-9
+  - name: Front VGA
+    type: other
+  - name: Rear VGA
+    type: other
+interfaces:
+  - name: iDRAC
+    type: 1000base-t
+    mgmt_only: true
+module-bays:
+  - name: Network Daughter Card
+    position: NDC
+  - name: PCIe-Gen3 Slot 1
+    position: PCIe 1
+  - name: PCIe-Gen3 Slot 2
+    position: PCIe 2
+  - name: PCIe-Gen3 Slot 3
+    position: PCIe 3
+  - name: PCIe-Gen3 Slot 4
+    position: PCIe 4
+  - name: PCIe-Gen3 Slot 5
+    position: PCIe 5
+  - name: PCIe-Gen3 Slot 6
+    position: PCIe 6
+  - name: PCIe-Gen3 Slot 7
+    position: PCIe 7
+  - name: iDRAC7 Port Card Slot
+    position: iDRAC7 Port Card
+  - name: Power Supply 1
+    position: PSU1
+  - name: Power Supply 2
+    position: PSU2
+inventory-items:
+  - name: CPU 1
+    role: CPU
+  - name: CPU 2
+    role: CPU
+  - name: Ram A3
+    role: RAM
+  - name: Ram A7
+    role: RAM
+  - name: Ram A11
+    role: RAM
+  - name: Ram A4
+    role: RAM
+  - name: Ram A8
+    role: RAM
+  - name: Ram A12
+    role: RAM
+  - name: Ram A10
+    role: RAM
+  - name: Ram A6
+    role: RAM
+  - name: Ram A2
+    role: RAM
+  - name: Ram A9
+    role: RAM
+  - name: Ram A5
+    role: RAM
+  - name: Ram A1
+    role: RAM
+  - name: Ram B3
+    role: RAM
+  - name: Ram B7
+    role: RAM
+  - name: Ram B11
+    role: RAM
+  - name: Ram B4
+    role: RAM
+  - name: Ram B8
+    role: RAM
+  - name: Ram B12
+    role: RAM
+  - name: Ram B10
+    role: RAM
+  - name: Ram B6
+    role: RAM
+  - name: Ram B2
+    role: RAM
+  - name: Ram B9
+    role: RAM
+  - name: Ram B5
+    role: RAM
+  - name: Ram B1
+    role: RAM
+  - name: 3.5in Disk 0
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 1
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 2
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 3
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 4
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 5
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 6
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 7
+    role: SATA/SAS Drive

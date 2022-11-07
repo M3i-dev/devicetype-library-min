@@ -1,0 +1,18 @@
+---
+manufacturer: APC
+model: UPS Network Management 3 with Environmental Monitoring and Modbus SmartSlot Card
+part_number: AP9643
+interfaces:
+  - name: Universal I/O
+    type: 1000base-t
+  - name: Modbus
+    type: other
+  - name: Network
+    type: 1000base-t
+console-ports:
+  - name: Console
+    type: usb-micro-b
+  - name: USB 1
+    type: usb-a
+  - name: USB 2
+    type: usb-a

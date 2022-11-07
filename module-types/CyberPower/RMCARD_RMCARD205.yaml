@@ -1,0 +1,9 @@
+---
+manufacturer: CyberPower
+model: RMCARD205
+part_number: RMCARD205
+interfaces:
+  - name: Network
+    type: 1000base-t
+  - name: Universal
+    type: 1000base-t

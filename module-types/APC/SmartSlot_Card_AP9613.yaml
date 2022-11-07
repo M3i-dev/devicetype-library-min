@@ -1,0 +1,12 @@
+---
+manufacturer: APC
+model: Dry Contact I/O SmartSlot Card
+part_number: AP9613
+interfaces:
+  - name: Universal I/O 1
+    type: 1000base-t
+  - name: Universal I/O 2
+    type: 1000base-t
+console-ports:
+  - name: USB
+    type: usb-mini-b

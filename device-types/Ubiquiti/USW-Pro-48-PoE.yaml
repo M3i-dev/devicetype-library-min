@@ -1,0 +1,122 @@
+---
+manufacturer: Ubiquiti
+model: UniFi Network Switch Pro 48 PoE
+slug: ubiquiti-unifi-network-switch-pro-48-poe
+part_number: USW-PRO-48-POE
+u_height: 1
+is_full_depth: false
+comments: |
+  ##### Resources
+
+  - [UniFi USW-PRO-48-POE](https://store.ui.com/collections/unifi-network-switching/products/usw-pro-48-poe)
+  - [UniFi USW-PRO-48-POE Datasheet](https://dl.ui.com/ds/usw_pro_poe_ds)
+  - [UniFi USW-PRO-48-POE Installation Guide](https://dl.ui.com/qig/usw-pro-48-poe)
+interfaces:
+  - name: Port 1 (PoE+)
+    type: 1000base-t
+  - name: Port 2 (PoE+)
+    type: 1000base-t
+  - name: Port 3 (PoE+)
+    type: 1000base-t
+  - name: Port 4 (PoE+)
+    type: 1000base-t
+  - name: Port 5 (PoE+)
+    type: 1000base-t
+  - name: Port 6 (PoE+)
+    type: 1000base-t
+  - name: Port 7 (PoE+)
+    type: 1000base-t
+  - name: Port 8 (PoE+)
+    type: 1000base-t
+  - name: Port 9 (PoE+)
+    type: 1000base-t
+  - name: Port 10 (PoE+)
+    type: 1000base-t
+  - name: Port 11 (PoE+)
+    type: 1000base-t
+  - name: Port 12 (PoE+)
+    type: 1000base-t
+  - name: Port 13 (PoE+)
+    type: 1000base-t
+  - name: Port 14 (PoE+)
+    type: 1000base-t
+  - name: Port 15 (PoE+)
+    type: 1000base-t
+  - name: Port 16 (PoE+)
+    type: 1000base-t
+  - name: Port 17 (PoE+)
+    type: 1000base-t
+  - name: Port 18 (PoE+)
+    type: 1000base-t
+  - name: Port 19 (PoE+)
+    type: 1000base-t
+  - name: Port 20 (PoE+)
+    type: 1000base-t
+  - name: Port 21 (PoE+)
+    type: 1000base-t
+  - name: Port 22 (PoE+)
+    type: 1000base-t
+  - name: Port 23 (PoE+)
+    type: 1000base-t
+  - name: Port 24 (PoE+)
+    type: 1000base-t
+  - name: Port 25 (PoE+)
+    type: 1000base-t
+  - name: Port 26 (PoE+)
+    type: 1000base-t
+  - name: Port 27 (PoE+)
+    type: 1000base-t
+  - name: Port 28 (PoE+)
+    type: 1000base-t
+  - name: Port 29 (PoE+)
+    type: 1000base-t
+  - name: Port 30 (PoE+)
+    type: 1000base-t
+  - name: Port 31 (PoE+)
+    type: 1000base-t
+  - name: Port 32 (PoE+)
+    type: 1000base-t
+  - name: Port 33 (PoE+)
+    type: 1000base-t
+  - name: Port 34 (PoE+)
+    type: 1000base-t
+  - name: Port 35 (PoE+)
+    type: 1000base-t
+  - name: Port 36 (PoE+)
+    type: 1000base-t
+  - name: Port 37 (PoE+)
+    type: 1000base-t
+  - name: Port 38 (PoE+)
+    type: 1000base-t
+  - name: Port 39 (PoE+)
+    type: 1000base-t
+  - name: Port 40 (PoE++)
+    type: 1000base-t
+  - name: Port 41 (PoE++)
+    type: 1000base-t
+  - name: Port 42 (PoE++)
+    type: 1000base-t
+  - name: Port 43 (PoE++)
+    type: 1000base-t
+  - name: Port 44 (PoE++)
+    type: 1000base-t
+  - name: Port 45 (PoE++)
+    type: 1000base-t
+  - name: Port 46 (PoE++)
+    type: 1000base-t
+  - name: Port 47 (PoE++)
+    type: 1000base-t
+  - name: Port 48 (PoE++)
+    type: 1000base-t
+  - name: Port 49 (SFP+)
+    type: 10gbase-x-sfpp
+  - name: Port 50 (SFP+)
+    type: 10gbase-x-sfpp
+  - name: Port 51 (SFP+)
+    type: 10gbase-x-sfpp
+  - name: Port 52 (SFP+)
+    type: 10gbase-x-sfpp
+power-ports:
+  - name: AC Input
+    type: iec-60320-c14
+    maximum_draw: 660

@@ -1,0 +1,27 @@
+---
+manufacturer: Dell
+model: PowerEdge 11G 1100W PSU
+part_number: TCVRR
+comments: |
+  ## Interchangeable Part Numbers
+
+  - TCVRR
+  - 9PG9X
+  - 3MJJP
+  - 1Y45R
+  - 4T22V
+  - F613N
+  - CNRJ9
+  - G24H2
+  - G347N
+
+  ## Compatible Servers
+  
+  - R510
+  - R810
+  - R910
+  - T710
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 1100

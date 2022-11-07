@@ -1,0 +1,7 @@
+---
+manufacturer: Intel
+model: X520-DA1
+part_number: X520-DA1
+interfaces:
+  - name: '{module}/1'
+    type: 10gbase-x-sfpp

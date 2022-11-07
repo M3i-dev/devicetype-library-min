@@ -1,0 +1,21 @@
+---
+manufacturer: Dell
+model: PowerEdge 11G 570W PSU
+part_number: T327N
+comments: |
+  ## Interchangeable Part Numbers
+
+  - T327N
+  - MYXYH
+  - RXCPH
+  - J98GF
+  - FU100
+
+  ## Compatible Servers
+
+  - R710
+  - T610
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 570

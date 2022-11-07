@@ -1,0 +1,7 @@
+---
+manufacturer: CyberPower
+model: RWCCARD100
+part_number: RWCCARD100
+interfaces:
+  - name: Network
+    type: ieee802.11n

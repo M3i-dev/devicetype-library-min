@@ -1,0 +1,53 @@
+---
+manufacturer: CyberPower
+model: OR700LCDRM1U
+slug: cyberpower-or700lcdrm1u
+u_height: 1
+is_full_depth: true
+comments: |
+  CyberPower Smart App LCD UPS, 700 VA, Rackmount 1U, 120V, 6x NEMA 5-15R outlets, NEMA 5-15P inlet, RMCARD
+
+  | RBC Information |          |
+  |-----------------|----------|
+  | RBC Replacement | RB0690X2 |
+  | RBC Quantity    | 1        |
+
+  | RMCARD Information | SKU        | Name                            |
+  |--------------------|------------|---------------------------------|
+  | Option 1           | RMCARD205  | Remote Network Management Card  |
+  | Option 2           | RELAYIO500 | 5-output and 1-input Relay Card |
+console-ports:
+  - name: Serial
+    type: de-9
+  - name: USB
+    type: usb-b
+interfaces:
+  - name: Network IN
+    type: 1000base-t
+  - name: Network OUT
+    type: 1000base-t
+power-ports:
+  - name: AC Input
+    type: nema-5-15p
+    maximum_draw: 400
+power-outlets:
+  - name: Battery + Surge 1
+    type: nema-5-15r
+    power_port: AC Input
+  - name: Battery + Surge 2
+    type: nema-5-15r
+    power_port: AC Input
+  - name: Battery + Surge 3
+    type: nema-5-15r
+    power_port: AC Input
+  - name: Battery + Surge 4
+    type: nema-5-15r
+    power_port: AC Input
+  - name: Surge 1
+    type: nema-5-15r
+    power_port: AC Input
+  - name: Surge 2
+    type: nema-5-15r
+    power_port: AC Input
+module-bays:
+  - name: RMCARD

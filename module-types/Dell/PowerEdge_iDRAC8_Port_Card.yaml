@@ -1,0 +1,21 @@
+---
+manufacturer: Dell
+model: PowerEdge iDRAC8 Port Card
+part_number: VTG23
+comments: |
+  ## Interchangeable Part Numbers
+
+  - VTG23
+
+  ## Compatible Servers
+
+  - R130
+  - R230
+  - R330
+  - T130
+  - T230
+  - T330
+interfaces:
+  - name: iDRAC
+    type: 1000base-t
+    mgmt_only: True

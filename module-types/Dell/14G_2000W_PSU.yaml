@@ -1,0 +1,20 @@
+---
+manufacturer: Dell
+model: PowerEdge 14G 2000W PSU
+part_number: T8MTC
+comments: |
+  ## Interchangeable Part Numbers
+
+  - T8MTC
+
+  ## Compatible Servers
+
+  - R740
+  - R740xd
+  - R7425
+  - R840
+  - R940
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 2000

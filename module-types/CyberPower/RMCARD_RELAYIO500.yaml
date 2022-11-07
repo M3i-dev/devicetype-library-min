@@ -1,0 +1,7 @@
+---
+manufacturer: CyberPower
+model: RELAYIO500
+part_number: RELAYIO500
+console-ports:
+  - name: Relay Contacts
+    type: de-9

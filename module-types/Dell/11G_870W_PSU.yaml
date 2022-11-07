@@ -1,0 +1,24 @@
+---
+manufacturer: Dell
+model: PowerEdge 11G 870W PSU
+part_number: 2G39V
+comments: |
+  ## Interchangeable Part Numbers
+
+  - 2G39V
+  - PT164
+  - 7NVX8
+  - 3257W
+  - YFG1C
+  - D263K
+  - VT6G4
+  - 330-4524
+
+  ## Compatible Servers
+  
+  - R710
+  - T610
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 870

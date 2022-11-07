@@ -1,0 +1,39 @@
+---
+manufacturer: Dell
+model: PowerEdge NDC Intel I350 Quad Port 1GbE
+part_number: RV23K
+comments: |
+  ## Interchangeable Part Numbers
+
+  - 30T5J
+  - R1XFC
+  - 540-BBHF
+  - 430-4437
+
+  ## Compatible Servers
+
+  - R620
+  - R630
+  - R640
+  - R720
+  - R720xd
+  - R730
+  - R730XD
+  - R740
+  - R740XD
+  - R7425
+  - R820
+  - R840
+  - R920
+  - R930
+  - R940
+  - R940xa
+interfaces:
+  - name: '{module}/1'
+    type: 1000base-t
+  - name: '{module}/2'
+    type: 1000base-t
+  - name: '{module}/3'
+    type: 1000base-t
+  - name: '{module}/4'
+    type: 1000base-t

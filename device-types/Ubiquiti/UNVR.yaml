@@ -1,0 +1,34 @@
+---
+manufacturer: Ubiquiti
+model: UniFi Protect Network Video Recorder (UNVR)
+slug: ubiquiti-unifi-protect-network-video-recorder-unvr
+part_number: UNVR
+u_height: 1
+is_full_depth: false
+comments: |
+  ##### Resources
+
+  - [UniFi UNVR](https://store.ui.com/collections/unifi-protect-nvr/products/unvr)
+  - [UniFi UNVR Datasheet](https://dl.ui.com/ds/unvr_ds.pdf)
+  - [UniFi UNVR Installation Guide](https://dl.ui.com/qig/unvr)
+interfaces:
+  - name: LAN 1
+    type: 1000base-t
+  - name: SFP+ 2 (LAN)
+    type: 10gbase-x-sfpp
+inventory-items:
+  - name: 3.5in Disk 0
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 1
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 2
+    role: SATA/SAS Drive
+  - name: 3.5in Disk 3
+    role: SATA/SAS Drive
+power-ports:
+  - name: AC Input
+    type: iec-60320-c14
+    maximum_draw: 100
+  - name: USP-RPS connector for PSU failover
+    type: dc-terminal
+    maximum_draw: 100

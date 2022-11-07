@@ -1,0 +1,12 @@
+---
+manufacturer: Cisco
+model: N5K-PAC-550W
+part_number: N5K-PAC-550W
+comments: |
+  ##### Resources
+
+  - [Cisco Nexus 5000 Series Switches Data Sheet](https://nexstor.com/wp-content/uploads/2018/05/cisco-nexus-5596t-datasheet.pdf)
+power-ports:
+  - name: PSU{module}
+    type: iec-60320-c14
+    maximum_draw: 550
