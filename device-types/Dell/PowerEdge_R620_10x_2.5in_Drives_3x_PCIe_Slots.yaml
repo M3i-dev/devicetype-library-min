@@ -16,10 +16,6 @@ console-ports:
     type: de-9
   - name: Rear VGA
     type: other
-interfaces:
-  - name: iDRAC
-    type: 1000base-t
-    mgmt_only: true
 module-bays:
   - name: Network Daughter Card
     position: NDC
