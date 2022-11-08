@@ -14,14 +14,8 @@ comments: |
   - R320
   - R420
   - R520
-  - R620
-  - R720
-  - T330
-  - R720xd
-  - R820
   - T320
   - T420
-  - T620
 interfaces:
   - name: iDRAC
     type: 1000base-t

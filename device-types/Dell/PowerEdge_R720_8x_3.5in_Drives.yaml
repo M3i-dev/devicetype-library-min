@@ -17,6 +17,10 @@ console-ports:
     type: other
   - name: Rear VGA
     type: other
+interfaces:
+  - name: iDRAC
+    type: 1000base-t
+    mgmt_only: true
 module-bays:
   - name: Network Daughter Card
     position: NDC
@@ -34,8 +38,6 @@ module-bays:
     position: PCIe 6
   - name: PCIe-Gen3 Slot 7
     position: PCIe 7
-  - name: iDRAC7 Port Card Slot
-    position: iDRAC7 Port Card
   - name: Power Supply 1
     position: PSU1
   - name: Power Supply 2
