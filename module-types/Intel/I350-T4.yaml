@@ -1,0 +1,13 @@
+---
+manufacturer: Intel
+model: I350-T4
+part_number: I350-T4
+interfaces:
+  - name: '{module}/1'
+    type: 1000base-t
+  - name: '{module}/2'
+    type: 1000base-t
+  - name: '{module}/3'
+    type: 1000base-t
+  - name: '{module}/4'
+    type: 1000base-t
