@@ -1,0 +1,9 @@
+---
+manufacturer: LSI
+model: SAS 9200-8e
+part_number: SAS 9200-8e
+interfaces:
+  - name: '{module}/1'
+    type: other
+  - name: '{module}/2'
+    type: other
