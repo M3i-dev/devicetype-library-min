@@ -1,0 +1,48 @@
+---
+manufacturer: Cisco
+model: Catalyst 2960CG-8TC-L
+slug: cisco-ws-c2960cg-8tc-l
+part_number: WS-C2960CG-8TC-L
+is_full_depth: false
+u_height: 1
+comments: |
+  ##### Resources
+
+  - [Cisco Catalyst 2960-C and 3560-C Series Switches Data Sheet](https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-c-series-switches/data_sheet_c78-639705.html)
+
+  | Description         | Specification                    |
+  |---------------------|----------------------------------|
+  |                     | WS-C2960CG-8TC-L                 |
+  | Ethernet Ports      | 8 x 10/100/1000 Gigabit Ethernet |
+  | PoE Output Ports    | N/A                              |
+  | Available PoE Power | N/A                              |
+  | Uplinks             | 2 x 1G copper or 2 x 1G SFP      |
+  | MACsec              | N/A                              |
+interfaces:
+  - name: GigabitEthernet0/1
+    type: 1000base-t
+  - name: GigabitEthernet0/2
+    type: 1000base-t
+  - name: GigabitEthernet0/3
+    type: 1000base-t
+  - name: GigabitEthernet0/4
+    type: 1000base-t
+  - name: GigabitEthernet0/5
+    type: 1000base-t
+  - name: GigabitEthernet0/6
+    type: 1000base-t
+  - name: GigabitEthernet0/7
+    type: 1000base-t
+  - name: GigabitEthernet0/9
+    type: 1000base-t
+  - name: GigabitEthernet0/10
+    type: 1000base-t
+power-ports:
+  - name: PSU0
+    type: iec-60320-c14
+    maximum_draw: 18
+console-ports:
+  - name: Console
+    type: rj-45
+  - name: Console USB
+    type: usb-mini-b

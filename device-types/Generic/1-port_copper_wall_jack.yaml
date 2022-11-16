@@ -1,0 +1,13 @@
+---
+manufacturer: Generic
+model: 1-port UTP Wall Jack
+slug: generic-1-port-utp-wall-jack
+u_height: 0
+is_full_depth: false
+front-ports:
+  - name: Port 1
+    type: 8p8c
+    rear_port: Port 1
+rear-ports:
+  - name: Port 1
+    type: 8p8c

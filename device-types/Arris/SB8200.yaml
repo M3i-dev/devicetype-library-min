@@ -1,0 +1,23 @@
+---
+manufacturer: Arris
+model: SURFboard SB8200
+slug: arris-sb8200
+u_height: 1
+is_full_depth: false
+comments: |
+  ##### System Resources
+
+  - [Arris SB8200 Product Page](https://www.surfboard.com/products/cable-modems/sb8200/)
+  - [Arris SB8200 User Guide](https://arris.my.salesforce.com/sfc/p/#30000000kUAL/a/4Q000000NWZk/ZmCWcj6Ap5DZU75XbAE1h4ShY2aapjSxCPjm2pRWIYo)
+  - [Arris SB8200 Quick Start Guide](https://arris.my.salesforce.com/sfc/p/#30000000kUAL/a/a0000000QLmw/zQCKSXmI28oQNH5dJbMxxbQX.J7A6EIByVobWdGvzAw)
+power-ports:
+  - name: AC Input
+    type: dc-terminal
+    maximum_draw: 30
+interfaces:
+  - name: Ethernet 1
+    type: 1000base-t
+  - name: Ethernet 2
+    type: 1000base-t
+  - name: Coaxial
+    type: docsis
