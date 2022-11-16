@@ -3,7 +3,7 @@ manufacturer: CyberPower
 model: OR2200LCDRT2U
 slug: cyberpower-or2200lcdrt2u
 u_height: 2
-is_full_depth: true
+is_full_depth: false
 comments: |
   CyberPower Smart App LCD UPS, 2000 VA, Rackmount 2U, 120V, 8x NEMA 5-20R outlets, NEMA 5-20P inlet, RMCARD
 

@@ -4,7 +4,7 @@ model: SMT1000RM2U
 slug: apc-smt1000rm2u
 part_number: SMT1000RM2U
 u_height: 2
-is_full_depth: true
+is_full_depth: false
 comments: |
   APC Smart-UPS, Line Interactive, 1000VA, Rackmount 2U, 120V, 6x NEMA 5-15R outlets, SmartSlot, AVR, LCD
 
